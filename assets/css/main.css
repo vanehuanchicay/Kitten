@@ -1,0 +1,13 @@
+.first_kitten{
+	background-image: url(../img/sunny-day.jpg);
+	max-width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.kitten{
+	padding: 3.125em;
+	margin-left: 24.950em;
+	margin-top: 16.500em;
+}
